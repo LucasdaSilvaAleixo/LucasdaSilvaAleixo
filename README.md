@@ -1,4 +1,4 @@
-# • 👋 Hi, I'm Lucas da Silva Aleixo
+## • 👋 Hi, I'm Lucas da Silva Aleixo
 ## • 🔭 I’m currently working on my personal projects
 ## • 🌱 I’m currently learning HTML, CSS, JavaScript, Node.js and Git
 ## • 👯 I’m looking to collaborate on Front-end
