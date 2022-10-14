@@ -23,7 +23,7 @@
 
 ## 🔗 Links
 - [Portfolio](https://lucasdasilvaaleixo.github.io/)
-- [Linkedin](https://www.linkedin.com/in/lucasdasilvaaleixo/)
+- [LinkedIn](https://www.linkedin.com/in/lucasdasilvaaleixo/)
 - [GitHub](https://github.com/LucasdaSilvaAleixo)
 
 ## Contact Info
