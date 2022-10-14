@@ -25,3 +25,7 @@
 - [Portfolio](https://lucasdasilvaaleixo.github.io/)
 - [Linkedin](https://www.linkedin.com/in/lucasdasilvaaleixo/)
 - [GitHub](https://github.com/LucasdaSilvaAleixo)
+
+## Contact Info
+- [📧 lucasdasilvaaleixocontato@gmail.com](mailto:lucasdasilvaaleixocontato@gmail.com)
+- 📞 +55 (11) 99462-8635
